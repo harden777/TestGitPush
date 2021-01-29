@@ -6,5 +6,6 @@ public class Hello {
         System.out.println(12345);
         System.out.println(123+"同时修改");
         System.out.println("new brance");
+        System.out.println("clone");
     }
 }
