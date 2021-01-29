@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("helo Git");
         System.out.println(12345);
         System.out.println("new brance");
+        System.out.println("clone");
     }
 }
